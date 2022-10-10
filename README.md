@@ -1,6 +1,18 @@
 # PIXY
 For (I, Game &amp; Robot) Hackathon 
 
+Name of the Game : PIXY
+
+Target platform : Mobile 
+
+Web 3 Token : PIX
+
+Blockchain : Polygon Blockchain
+
+In game currency : Cash (off cahin)
+
+
+----------
 Pixy is a MashUp car game, With 3 different genres in one game.
 
 Genres:
