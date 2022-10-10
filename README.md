@@ -11,7 +11,7 @@ Blockchain : Polygon Blockchain
 
 In game currency : Cash (off cahin)
 
-Game background : The game starts when the player arrive to (Shanghai) to work as a Taxi Driver for a big company, With time one of his new friends at the company tell him about the Racing battle and the rewards that he will get when he win.
+Game background : The game starts when the player arrive to (Shanghai) to work as a Taxi Driver for a big company, With time one of his new friends at the company tells him about the Racing battle and the rewards that he will get when he wins.
 
 Game characters : Player - Friends at Taxi company.
 
