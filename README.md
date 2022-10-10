@@ -13,13 +13,13 @@ In game currency : Cash (off cahin)
 
 Game background : 
 
-Game theme : 
+Game theme : Simulator and Race
 
 Game narrative framework :
 
 Game concept :
 
-Game characters :
+Game characters : Player - Friends at Taxi company.
 
 Game plots :
 
