@@ -5,7 +5,7 @@ Pixy is a MashUp car game, With 3 different genres in one game.
 
 Genres:
 
-1-Card battle racing game (fresh idea) Mixing card battles games with racing games, prototype will be made at the end of the month.
+1-Card battle racing game (fresh idea) Mixing card battle game with racing game, prototype will be made at the end of the month.
 
 2-Taxi simulator, Located in the beautiful city of (Shanghai), more details coming soon.
 
