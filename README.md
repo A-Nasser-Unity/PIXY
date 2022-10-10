@@ -1,5 +1,5 @@
 # PIXY
-For I, Game &amp; Robot Hackathon 
+For (I, Game &amp; Robot) Hackathon 
 
 Pixy is a MashUp car game, With 3 different genres in one game.
 
