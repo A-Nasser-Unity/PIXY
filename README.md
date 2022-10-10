@@ -11,6 +11,25 @@ Blockchain : Polygon Blockchain
 
 In game currency : Cash (off cahin)
 
+Game background : 
+
+Game theme : 
+
+Game narrative framework :
+
+Game concept :
+
+Game characters :
+
+Game plots :
+
+Game type :
+
+Game core gameplay instruction :
+
+Customize robo-vehicle : Customize interior and exterior with Cash.
+
+Car garage : Huge empty place when player starts the game, Filling the garage with furniture needs Cash. 
 
 ----------
 Pixy is a MashUp car game, With 3 different genres in one game.
