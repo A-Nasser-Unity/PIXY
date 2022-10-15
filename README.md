@@ -7,7 +7,7 @@ Target platform : Mobile
 
 Web 3 Token : PIX
 
-Blockchain : Polygon Blockchain
+Blockchain : Need some research 
 
 In game currency : Cash (off cahin)
 
