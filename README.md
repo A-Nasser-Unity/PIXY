@@ -7,13 +7,14 @@ Target platform : Mobile
 
 Web 3 Token : PIX
 
-Blockchain : Need some research 
+Blockchain : Need some research, Top 20 Web3 games built on these blockchains : FLOW - BNB - WAX - POLYGON - 
+
 
 In game currency : Cash (off cahin)
 
-Game background : The game starts when the player arrive to (Shanghai) to work as a Taxi Driver for a big company, With time one of his new friends at the company tells him about the Racing battle and the rewards that he will get when he wins.
+Game background : The game starts when the player arrive to (Shanghai) search for work with a help from some friends he get a car and rent a garage to work with DIDI app, With time one of his friends tells him about the Racing battle and the rewards that he will get when he wins.
 
-Game characters : Player - Friends at Taxi company.
+Game characters : Player - Friends he meet at Shanghai.
 
 Game type : Simulator and Race
 
